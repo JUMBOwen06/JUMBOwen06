@@ -1,6 +1,4 @@
-My name is Owen,
+2nd year Comp Sci Student
+I upload simple coding projects here
 
-Im a first year Computer Science student
-
-Im am currently learning python 
-I have a tad of experience in Java
+Python | Java | C | html
