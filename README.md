@@ -1,4 +1,5 @@
 2nd year Comp Sci Student
-I upload simple coding projects here
+
+Currently working on my personal project: Stockr
 
 Python | Java | C | html
